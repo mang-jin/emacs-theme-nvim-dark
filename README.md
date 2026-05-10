@@ -10,4 +10,6 @@ So I made this theme.. (I couldn't find an existing one)
 
 # Preview
 
+![Preview2](images/2.png)
+
 ![Preview1](images/1.png)
