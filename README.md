@@ -1,11 +1,12 @@
 # Emacs Nvim Dark
-Emacs theme looks like Neovim default dark theme
 
-I like the neovim's default dark theme.
+Emacs theme that looks like Neovim's default dark theme.
 
-But I like emacs more.
+I like Neovim's default dark theme.
 
-So I made this theme.. (I couldn't find existing one)
+But I like Emacs more.
+
+So I made this theme.. (I couldn't find an existing one)
 
 # Preview
 
